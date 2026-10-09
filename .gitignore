@@ -1,0 +1,36 @@
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Test binary
+*.test
+*.out
+
+# Go build files
+/bin/
+/pkg/
+vendor/
+*.log
+coverage.out
+*.cover
+*.cpuprofile
+*.memprofile
+
+# Go workspace
+go.sum
+
+# Mac related
+.DS_Store
+.env
+
+# App Name
+LanTrainer
+
+# Internal Documentation
+/Doc/
